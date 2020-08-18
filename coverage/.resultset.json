@@ -273,6 +273,21 @@
           null
         ]
       },
+      "/home/webrev/development/tutorials/thoughbot/test-driven-rails/todos/spec/features/user_sees_own_todos_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          0,
+          null,
+          null
+        ]
+      },
       "/home/webrev/development/tutorials/thoughbot/test-driven-rails/todos/spec/features/user_visits_homepage_spec.rb": {
         "lines": [
           1,
@@ -309,8 +324,6 @@
           1,
           1,
           null,
-          0,
-          null,
           null,
           null,
           1,
@@ -336,6 +349,6 @@
         ]
       }
     },
-    "timestamp": 1597715114
+    "timestamp": 1597747247
   }
 }

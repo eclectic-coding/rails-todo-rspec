@@ -12,8 +12,6 @@ class TodosController < ApplicationController
     @todo = Todo.create(todos_params)
     if @todo.save
       redirect_to todos_path
-    else
-      render 'new'
     end
   end
 
