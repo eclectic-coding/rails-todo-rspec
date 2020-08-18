@@ -264,6 +264,8 @@
           null,
           1,
           null,
+          1,
+          null,
           null
         ]
       },
@@ -278,13 +280,13 @@
           1,
           null,
           1,
-          0,
+          1,
           null,
           null,
           1,
-          1,
-          1,
-          0,
+          2,
+          2,
+          2,
           null,
           null,
           null
@@ -325,7 +327,7 @@
           null,
           1,
           null,
-          0,
+          1,
           null,
           null
         ]
@@ -346,33 +348,67 @@
       "/home/webrev/development/tutorials/thoughbot/test-driven-rails/todos/app/controllers/application_controller.rb": {
         "lines": [
           1,
+          null,
+          1,
+          8,
+          3,
+          null,
+          null,
+          null,
+          1,
+          8,
+          null,
+          null,
+          1,
+          12,
+          null,
+          null,
+          1,
+          2,
+          null,
+          null,
           null
         ]
       },
       "/home/webrev/development/tutorials/thoughbot/test-driven-rails/todos/app/controllers/todos_controller.rb": {
         "lines": [
           1,
+          1,
           null,
           1,
-          4,
-          null,
-          null,
-          1,
-          1,
+          3,
           null,
           null,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          null,
           1,
           1,
           null,
           null,
-          null,
+          null
+        ]
+      },
+      "/home/webrev/development/tutorials/thoughbot/test-driven-rails/todos/app/controllers/sessions_controller.rb": {
+        "lines": [
           1,
           null,
           1,
-          1,
           null,
+          1,
+          2,
+          null,
+          2,
           null,
           null
         ]
@@ -391,6 +427,6 @@
         ]
       }
     },
-    "timestamp": 1597749665
+    "timestamp": 1597752211
   }
 }
