@@ -360,11 +360,11 @@
           null,
           null,
           1,
-          12,
+          2,
           null,
           null,
           1,
-          2,
+          12,
           null,
           null,
           null
@@ -386,8 +386,6 @@
           1,
           1,
           1,
-          1,
-          null,
           null,
           null,
           1,
@@ -395,6 +393,24 @@
           1,
           1,
           null,
+          null,
+          null
+        ]
+      },
+      "/home/webrev/development/tutorials/thoughbot/test-driven-rails/todos/app/models/User.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          12,
+          null,
+          null,
+          1,
+          4,
+          null,
+          null,
+          1,
+          8,
           null,
           null
         ]
@@ -427,6 +443,6 @@
         ]
       }
     },
-    "timestamp": 1597752211
+    "timestamp": 1597752862
   }
 }
