@@ -30,6 +30,13 @@ module Todos
     # the framework and any gems in your application.
 
     # Don't generate system test files.
-    config.generators.system_tests = nil
+    # config.generators.system_tests = nil
+
+    config.generators do |g|
+      g.system_tests = nil
+      g.stylesheets nil
+      g.helper false
+      g.test_framework false
+    end
   end
 end
